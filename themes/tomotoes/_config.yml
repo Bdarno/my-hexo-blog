@@ -132,11 +132,11 @@ gitment: false
 # client_id: 7332934a52c95d8af541
 # client_secret: 4c3c4428132f245906f4416215d7f44fed951ab9
 
-gitalk: true
+gitalk: false
 owner: Bdarno
-repo: hexo-blog-comment
-client_id: 7332934a52c95d8af541
-client_secret: 4c3c4428132f245906f4416215d7f44fed951ab9
+repo: blog.github.io
+client_id: f7cec90fb2e8bb1d0761
+client_secret: 4ec2047cbb06621581ab0424d675b95107f4ea60
 
 # Valine Comment system. https://valine.js.org
 valine:
